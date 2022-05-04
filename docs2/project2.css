@@ -1,0 +1,89 @@
+.from{
+    padding-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.inv{
+    padding-left: 75%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:initial;
+}
+
+.ip{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.center{
+    padding-left: 20%;
+    font-size: 22px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.atin{
+    padding-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.atas{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.down{
+    padding-left: 20%;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+table{
+    border-color: white;
+}
+.table{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+.table2{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin-left: 50%;
+    margin-top: 1%;
+}
+
+.bottom{
+    padding-left: 20%;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.contractor{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-left: 40%;
+
+    
+    
+}
+
+.contractor__name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
